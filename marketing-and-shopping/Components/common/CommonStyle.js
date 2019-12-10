@@ -23,7 +23,7 @@ const generalStyle = StyleSheet.create({
     backgroundColor: "#DFE6E9"
   },
   secondColor: {
-    color: "#DFE6E9"
+    color: "#DFE6E9
   }
 });
 
